@@ -6,4 +6,4 @@ curl https://github.com/cool5tar/MYGAMES/releases/download/among-us-2.0/ --outpu
 jar xf Among-Us-By-Sn0wstar.zip
 cd Among-Us-By-Sn0wstar
 ls
-echo "done"
+echo "done..."
