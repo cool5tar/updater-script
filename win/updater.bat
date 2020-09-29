@@ -15,4 +15,6 @@ curl https://github.com/cool5tar/updater-script/raw/among-us/assets/ --output Un
 curl https://github.com/cool5tar/updater-script/raw/among-us/assets/ --output UnityPlayer.dll
 curl https://raw.githubusercontent.com/cool5tar/updater-script/among-us/win/ --output upd.bat
 
+upd.bat
+
 echo "done"
