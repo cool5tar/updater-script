@@ -14,6 +14,5 @@ curl https://github.com/cool5tar/updater-script/raw/among-us/assets/ --output Ga
 curl https://github.com/cool5tar/updater-script/raw/among-us/assets/ --output UnityCrashHandler32.exe
 curl https://github.com/cool5tar/updater-script/raw/among-us/assets/ --output UnityPlayer.dll
 curl https://raw.githubusercontent.com/cool5tar/updater-script/among-us/mac-linux/ --output upd.sh
-curl https://raw.githubusercontent.com/cool5tar/updater-script/among-us/mac-linux/ --output updater.sh
 
 echo "done"
